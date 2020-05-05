@@ -1,3 +1,6 @@
 # TIL
 
-## This is my TIL(Today I Learned) repository
+Hello 👋
+This is my TIL(Today I Learned) repository
+
+Check following index
