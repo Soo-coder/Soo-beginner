@@ -2,6 +2,6 @@
 
 Hello 👋
 
-This is my TIL(Today I Learned) repository
+This is my TIL(Today I Learned) repository.
 
-Check following index
+## Categories
