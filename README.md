@@ -2,4 +2,4 @@
 
 Hello 👋
 
-This is my TIL(Today I Learned) repository.
+This is my Blog repository.
